@@ -133,7 +133,7 @@
 
 <br/>  
 
-### Credits
+## Credits
 I'd like to thank everyone who has helped me with my project work. I should mention a few of them.
 
 - [AlmabBetter](https://www.almabetter.com/), with them I started my Data Science Journey. 
