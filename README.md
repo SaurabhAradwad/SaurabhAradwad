@@ -7,7 +7,7 @@
 
 
 
-### <div align="center">I'm a full-time, full-stack data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> working primarily in Python and remotely. Please browse my repositories and get in touch if you've any questions or suggestions. 🚀</div>  
+### <div align="center">I'm a full-time, full-stack data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> working primarily in Python and remotely. <div align="center"> Please browse my repositories and get in touch if you've any questions or suggestions. 🚀</div>  
 
 ## About Me
 
@@ -141,6 +141,6 @@ I'd like to thank everyone who has helped me with my project work. I should ment
 - [DataCamp](https://www.datacamp.com/) Thank you for providing such a wonderful way to learn code by performing it step-by-step.
 - [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Rishika](https://github.com/Rishika70) for contributing in my project journey
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
 [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
 [![Instagram Badge](https://img.shields.io/badge/-@Saurabhardwad-orange?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saurabharadwad/)](https://instagram.com/saurabharadwad/)
