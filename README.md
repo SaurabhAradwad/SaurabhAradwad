@@ -1,13 +1,13 @@
 # <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="60">, I'm Saurabh 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
+[![Linkedin Badge](https://img.shields.io/badge/-@Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
 [![CV Badge](https://img.shields.io/badge/-CV_Saurabh-gray?style=flat&logo=Google-Drive&logoColor=white&link=https://)](https://)
 [![Website Badge](https://img.shields.io/badge/-SaurabhAradwad-darkgreen?style=flat&logo=Google-Chrome&logoColor=white&link=https://)](https://)
-[![Gmail Badge](https://img.shields.io/badge/-Saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-@Saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
 
 
 
-### <div align="center">I'm a full-time, full-stack data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> working primarily in Python and remotely. <div align="center"> Please browse my repositories and get in touch if you've any questions or suggestions. 🚀</div>  
+### <div align="center">I'm a full-time, full-stack data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> working primarily in Python. <div align="center"> Please browse my repositories and get in touch if you've any questions or suggestions. 🚀</div>  
 
 ## About Me
 
@@ -142,5 +142,8 @@ I'd like to thank everyone who has helped me with my project work. I should ment
 - [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Rishika](https://github.com/Rishika70) for contributing in my project journey
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
+<br/> 
+[![Linkedin Badge](https://img.shields.io/badge/-@Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
+[![Gmail Badge](https://img.shields.io/badge/-@saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
 [![Instagram Badge](https://img.shields.io/badge/-@Saurabhardwad-orange?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saurabharadwad/)](https://instagram.com/saurabharadwad/)
+[![Twitter Badge](https://img.shields.io/badge/-@Saurabhardwad-grey?style=flat&logo=twitter&logoColor=white&link=https://instagram.com/saurabharadwad/)](https://twitter.com/Saurabharadwad)
