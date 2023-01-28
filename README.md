@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-@Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad/)](https://www.linkedin.com/in/saurabh-aradwad/)
 [![CV Badge](https://img.shields.io/badge/-CV_Saurabh-gray?style=flat&logo=Google-Drive&logoColor=white&link=https://)](https://)
-[![Website Badge](https://img.shields.io/badge/-SaurabhAradwad-darkgreen?style=flat&logo=Google-Chrome&logoColor=white&link=https://)](https://)
+[![Website Badge](https://img.shields.io/badge/-SaurabhAradwad-darkgreen?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.saurabharadwad.site/home)](https://www.saurabharadwad.site/home)
 [![Gmail Badge](https://img.shields.io/badge/-@Saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
 
 
