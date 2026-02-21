@@ -13,20 +13,14 @@
 
 - 🔭 I’m currently working on [ML Project](https://github.com/SaurabhAradwad/)  
 
-- 🌱 I’m currently learning DL, AI/ML Ops, DevOps 
+- 🌱 I’m currently working as AI Ops Enggier at [Medline India](https://in.medlineasia.com/)
 
-- ❓ Ask me about anything related to Data Science
- 
-- ⚡ Fun fact: I like playing [AGE OF EMPIRES](https://www.ageofempires.com/) 
-  
+- ❓ Ask me about Data Science, AI/ML/DL and AI Ops 
 
 <br/>  
 
-
 ## My Technical Stack  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Python Packages  
 <div align="center">  
@@ -127,21 +121,9 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SaurabhAradwad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-## Credits
-I'd like to thank everyone who has helped me with my project work. I should mention a few of them.
-
-- [AlmabBetter](https://www.almabetter.com/), with them I started my Data Science Journey. 
-- [ineuron](https://ineuron.ai/) Every tech-support staff, contributor and mentor who has ever reviewed any of my projects, or just replied to the issues I've raised.
-- [DataCamp](https://www.datacamp.com/) Thank you for providing such a wonderful way to learn code by performing it step-by-step.
-- [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Rishika](https://github.com/Rishika70) for contributing in my project journey
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
 <br/> 
 [![Linkedin Badge](https://img.shields.io/badge/-@Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
 [![Gmail Badge](https://img.shields.io/badge/-@saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
