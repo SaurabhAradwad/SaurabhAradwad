@@ -119,11 +119,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SaurabhAradwad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/> 
 [![Linkedin Badge](https://img.shields.io/badge/-@Saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-aradwad-58693987/)](https://www.linkedin.com/in/saurabh-aradwad-58693987/)
 [![Gmail Badge](https://img.shields.io/badge/-@saurabh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhdilip95@gmail.com)](mailto:saurabhdilip95@gmail.com)  
